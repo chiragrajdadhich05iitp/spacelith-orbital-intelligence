@@ -1,4 +1,4 @@
-Markdown# Spacelith Orbital Intelligence (SOI)
+# Spacelith Orbital Intelligence (SOI)
 
 Autonomous on-orbit pattern recognition, astrodynamics propagation, and Space Domain Awareness (SDA) platform engineered for contested, bandwidth-constrained orbital environments.
 
